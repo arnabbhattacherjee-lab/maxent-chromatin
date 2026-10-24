@@ -1,0 +1,10 @@
+#define NUCPOS "../chr12_NL_nanog"
+#define NL2CG "../chr12_cg_nanog"
+#define ANGINFO "../generate_init_cord/Output/angle_indices.txt"
+#define IENSEM "../generate_init_cord/Output/Initial_ensemble_positions_new6k.txt"
+#define EXPC "../row_col_norm_map"
+
+#define ECM "Output/exp_cont_map"
+#define SCM "Output/sim_cont_map"
+#define WRITEPOS "Output/Chromatin_ensemble_positions.txt"
+
